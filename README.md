@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Avantiermv/stats-preview-card-challenge)
+- Live Site URL: [Live site URL](https://avantiermv.github.io/stats-preview-card-challenge/)
 
 ## My process
 
